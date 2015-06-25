@@ -52,5 +52,5 @@ with open(f1, 'r', encoding="utf-8") as infile, open(f2, 'w', encoding="utf-8") 
                 outfile.write(u',\n')
             outfile.write(outline)
         except Exception as e:
-            outfile.write(unit + ' ' + str(e))
+            outfile.write(u',\n*Exception: ' + unit + ' ' + str(e))
     outfile.write(u'\n};\n')
