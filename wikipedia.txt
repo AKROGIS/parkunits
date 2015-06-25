@@ -1,0 +1,408 @@
+T#ShortName#Type#LongName#Location
+2#Horseshoe Bend#National Military Park#Horseshoe Bend National Military Park#Alabama
+2#Little River Canyon#National Preserve#Little River Canyon National Preserve#Alabama
+2#Russell Cave#National Monument#Russell Cave National Monument#Alabama
+2#Tuskegee Airmen#National Historic Site#Tuskegee Airmen National Historic Site#Alabama
+2#Tuskegee Institute#National Historic Site#Tuskegee Institute National Historic Site#Alabama
+3#Alagnak#Wild River#Alagnak Wild River#Alaska
+2#Aniakchak#National Monument#Aniakchak National Monument#Alaska
+2#Aniakchak#National Preserve#Aniakchak National Preserve#Alaska
+2#Bering Land Bridge#National Preserve#Bering Land Bridge National Preserve#Alaska
+2#Cape Krusenstern#National Monument#Cape Krusenstern National Monument#Alaska
+2#Denali#National Park#Denali National Park#Alaska
+2#Denali#National Preserve#Denali National Preserve#Alaska
+2#Gates of the Arctic#National Park#Gates of the Arctic National Park#Alaska
+2#Gates of the Arctic#National Preserve#Gates of the Arctic National Preserve#Alaska
+2#Glacier Bay#National Park#Glacier Bay National Park#Alaska
+2#Glacier Bay#National Preserve#Glacier Bay National Preserve#Alaska
+2#Katmai#National Park#Katmai National Park#Alaska
+2#Katmai#National Preserve#Katmai National Preserve#Alaska
+2#Kenai Fjords#National Park#Kenai Fjords National Park#Alaska
+2#Klondike Gold Rush#National Historical Park#Klondike Gold Rush National Historical Park#Alaska, Washington
+2#Kobuk Valley#National Park#Kobuk Valley National Park#Alaska
+2#Lake Clark#National Park#Lake Clark National Park#Alaska
+2#Lake Clark#National Preserve#Lake Clark National Preserve#Alaska
+2#Noatak#National Preserve#Noatak National Preserve#Alaska
+2#Sitka#National Historical Park#Sitka National Historical Park#Alaska
+2#World War II Valor in the Pacific#National Monument#World War II Valor in the Pacific National Monument#Alaska, California, Hawaii
+2#Wrangell-St. Elias#National Park#Wrangell-St. Elias National Park#Alaska
+2#Wrangell-St. Elias#National Preserve#Wrangell-St. Elias National Preserve#Alaska
+2#Yukon-Charley Rivers#National Preserve#Yukon-Charley Rivers National Preserve#Alaska
+4#National Park of American Samoa##National Park of American Samoa#American Samoa
+2#Canyon De Chelly#National Monument#Canyon De Chelly National Monument#Arizona
+2#Casa Grande Ruins#National Monument#Casa Grande Ruins National Monument#Arizona
+2#Chiricahua#National Monument#Chiricahua National Monument#Arizona
+2#Coronado#National Memorial#Coronado National Memorial#Arizona
+2#Fort Bowie#National Historic Site#Fort Bowie National Historic Site#Arizona
+2#Glen Canyon#National Recreation Area#Glen Canyon National Recreation Area#Arizona, Utah
+2#Grand Canyon#National Park#Grand Canyon National Park#Arizona
+2#Hohokam Pima#National Monument#Hohokam Pima National Monument#Arizona
+2#Hubbell Trading Post#National Historic Site#Hubbell Trading Post National Historic Site#Arizona
+2#Montezuma Castle#National Monument#Montezuma Castle National Monument#Arizona
+2#Navajo#National Monument#Navajo National Monument#Arizona
+2#Organ Pipe Cactus#National Monument#Organ Pipe Cactus National Monument#Arizona
+2#Petrified Forest#National Park#Petrified Forest National Park#Arizona
+2#Pipe Spring#National Monument#Pipe Spring National Monument#Arizona
+2#Saguaro#National Park#Saguaro National Park#Arizona
+2#Sunset Crater Volcano#National Monument#Sunset Crater Volcano National Monument#Arizona
+2#Tonto#National Monument#Tonto National Monument#Arizona
+2#Tumacacori#National Historical Park#Tumacacori National Historical Park#Arizona
+2#Tuzigoot#National Monument#Tuzigoot National Monument#Arizona
+2#Walnut Canyon#National Monument#Walnut Canyon National Monument#Arizona
+2#Wupatki#National Monument#Wupatki National Monument#Arizona
+2#Arkansas Post#National Memorial#Arkansas Post National Memorial#Arkansas
+2#Buffalo#National River#Buffalo National River#Arkansas
+2#Fort Smith#National Historic Site#Fort Smith National Historic Site#Arkansas
+2#Hot Springs#National Park#Hot Springs National Park#Arkansas
+2#Little Rock Central High School#National Historic Site#Little Rock Central High School National Historic Site#Arkansas
+2#Pea Ridge#National Military Park#Pea Ridge National Military Park#Arkansas
+2#President William Jefferson Clinton Birthplace Home#National Historic Site#President William Jefferson Clinton Birthplace Home National Historic Site#Arkansas
+2#Cabrillo#National Monument#Cabrillo National Monument#California
+2#César E. Chávez#National Monument#César E. Chávez National Monument#California
+2#Channel Islands#National Park#Channel Islands National Park#California
+2#Death Valley#National Park#Death Valley National Park#California, Nevada
+2#Devils Postpile#National Monument#Devils Postpile National Monument#California
+2#Eugene O'Neill#National Historic Site#Eugene O'Neill National Historic Site#California
+2#Fort Point#National Historic Site#Fort Point National Historic Site#California
+2#Golden Gate#National Recreation Area#Golden Gate National Recreation Area#California
+2#John Muir#National Historic Site#John Muir National Historic Site#California
+2#Joshua Tree#National Park#Joshua Tree National Park#California
+2#Kings Canyon#National Park#Kings Canyon National Park#California
+2#Lassen Volcanic#National Park#Lassen Volcanic National Park#California
+2#Lava Beds#National Monument#Lava Beds National Monument#California
+2#Manzanar#National Historic Site#Manzanar National Historic Site#California
+2#Mojave#National Preserve#Mojave National Preserve#California
+2#Muir Woods#National Monument#Muir Woods National Monument#California
+2#Pinnacles#National Park#Pinnacles National Park#California
+2#Point Reyes#National Seashore#Point Reyes National Seashore#California
+2#Port Chicago Naval Magazine#National Memorial#Port Chicago Naval Magazine National Memorial#California
+2#Redwood#National Park#Redwood National Park#California
+2#Rosie the Riveter/World War II Home Front#National Historical Park#Rosie the Riveter/World War II Home Front National Historical Park#California
+2#San Francisco Maritime#National Historical Park#San Francisco Maritime National Historical Park#California
+2#Santa Monica Mountains#National Recreation Area#Santa Monica Mountains National Recreation Area#California
+2#Sequoia#National Park#Sequoia National Park#California
+2#Whiskeytown-Shasta-Trinity#National Recreation Area#Whiskeytown-Shasta-Trinity National Recreation Area#California
+2#Yosemite#National Park#Yosemite National Park#California
+2#Bent's Old Fort#National Historic Site#Bent's Old Fort National Historic Site#Colorado
+2#Black Canyon of the Gunnison#National Park#Black Canyon of the Gunnison National Park#Colorado
+2#Colorado#National Monument#Colorado National Monument#Colorado
+2#Curecanti#National Recreation Area#Curecanti National Recreation Area#Colorado
+2#Dinosaur#National Monument#Dinosaur National Monument#Colorado, Utah
+2#Florissant Fossil Beds#National Monument#Florissant Fossil Beds National Monument#Colorado
+2#Great Sand Dunes#National Park#Great Sand Dunes National Park#Colorado
+2#Great Sand Dunes#National Preserve#Great Sand Dunes National Preserve#Colorado
+2#Hovenweep#National Monument#Hovenweep National Monument#Colorado, Utah
+2#Mesa Verde#National Park#Mesa Verde National Park#Colorado
+2#Rocky Mountain#National Park#Rocky Mountain National Park#Colorado
+2#Sand Creek Massacre#National Historic Site#Sand Creek Massacre National Historic Site#Colorado
+2#Yucca House#National Monument#Yucca House National Monument#Colorado
+2#Weir Farm#National Historic Site#Weir Farm National Historic Site#Connecticut
+2#First State#National Historical Park#First State National Historical Park#Delaware, Pennsylvania
+2#Big Cypress#National Preserve#Big Cypress National Preserve#Florida
+2#Biscayne#National Park#Biscayne National Park#Florida
+2#Canaveral#National Seashore#Canaveral National Seashore#Florida
+2#Castillo de San Marcos#National Monument#Castillo de San Marcos National Monument#Florida
+2#De Soto#National Memorial#De Soto National Memorial#Florida
+2#Dry Tortugas#National Park#Dry Tortugas National Park#Florida
+2#Everglades#National Park#Everglades National Park#Florida
+2#Fort Caroline#National Memorial#Fort Caroline National Memorial#Florida
+2#Fort Matanzas#National Monument#Fort Matanzas National Monument#Florida
+2#Gulf Islands#National Seashore#Gulf Islands National Seashore#Florida, Mississippi
+3#Timucuan#Ecological and Historic Preserve#Timucuan Ecological and Historic Preserve#Florida
+2#Andersonville#National Historic Site#Andersonville National Historic Site#Georgia
+2#Chattahoochee River#National Recreation Area#Chattahoochee River National Recreation Area#Georgia
+2#Chickamauga and Chattanooga#National Military Park#Chickamauga and Chattanooga National Military Park#Georgia, Tennessee
+2#Cumberland Island#National Seashore#Cumberland Island National Seashore#Georgia
+2#Fort Frederica#National Monument#Fort Frederica National Monument#Georgia
+2#Fort Pulaski#National Monument#Fort Pulaski National Monument#Georgia
+2#Jimmy Carter#National Historic Site#Jimmy Carter National Historic Site#Georgia
+2#Kennesaw Mountain#National Battlefield Park#Kennesaw Mountain National Battlefield Park#Georgia
+2#Martin Luther King, Jr.#National Historic Site#Martin Luther King, Jr. National Historic Site#Georgia
+2#Ocmulgee#National Monument#Ocmulgee National Monument#Georgia
+2#War in the Pacific#National Historical Park#War in the Pacific National Historical Park#Guam
+2#Haleakala#National Park#Haleakala National Park#Hawaii
+2#Hawaii Volcanoes#National Park#Hawaii Volcanoes National Park#Hawaii
+2#Honouliuli#National Monument#Honouliuli National Monument#Hawaii
+2#Kalaupapa#National Historical Park#Kalaupapa National Historical Park#Hawaii
+2#Kaloko-Honokohau#National Historical Park#Kaloko-Honokohau National Historical Park#Hawaii
+2#Pu'uhonua O Honaunau#National Historical Park#Pu'uhonua O Honaunau National Historical Park#Hawaii
+2#Pu'ukohola Heiau#National Historic Site#Pu'ukohola Heiau National Historic Site#Hawaii
+2#City of Rocks#National Reserve#City of Rocks National Reserve#Idaho
+2#Craters of the Moon#National Monument#Craters of the Moon National Monument#Idaho
+2#Craters of the Moon#National Preserve#Craters of the Moon National Preserve#Idaho
+2#Hagerman Fossil Beds#National Monument#Hagerman Fossil Beds National Monument#Idaho
+2#Minidoka#National Historic Site#Minidoka National Historic Site#Idaho
+2#Nez Perce#National Historical Park#Nez Perce National Historical Park#Idaho
+2#Lincoln Home#National Historic Site#Lincoln Home National Historic Site#Illinois
+2#Pullman#National Monument#Pullman National Monument#Illinois
+2#George Rogers Clark#National Historical Park#George Rogers Clark National Historical Park#Indiana
+2#Indiana Dunes#National Lakeshore#Indiana Dunes National Lakeshore#Indiana
+2#Lincoln Boyhood#National Memorial#Lincoln Boyhood National Memorial#Indiana
+2#Effigy Mounds#National Monument#Effigy Mounds National Monument#Iowa
+2#Herbert Hoover#National Historic Site#Herbert Hoover National Historic Site#Iowa
+2#Brown vs. Board of Education#National Historic Site#Brown vs. Board of Education National Historic Site#Kansas
+2#Fort Larned#National Historic Site#Fort Larned National Historic Site#Kansas
+2#Fort Scott#National Historic Site#Fort Scott National Historic Site#Kansas
+2#Nicodemus#National Historic Site#Nicodemus National Historic Site#Kansas
+2#Tallgrass Prairie#National Preserve#Tallgrass Prairie National Preserve#Kansas
+2#Abraham Lincoln Birthplace#National Historical Park#Abraham Lincoln Birthplace National Historical Park#Kentucky
+2#Cumberland Gap#National Historical Park#Cumberland Gap National Historical Park#Kentucky, Tennessee, Virginia
+2#Mammoth Cave#National Park#Mammoth Cave National Park#Kentucky
+2#Cane River Creole#National Historical Park#Cane River Creole National Historical Park#Louisiana
+2#Jean Lafitte#National Historical Park and Preserve#Jean Lafitte National Historical Park and Preserve#Louisiana
+2#New Orleans Jazz#National Historical Park#New Orleans Jazz National Historical Park#Louisiana
+2#Poverty Point#National Monument#Poverty Point National Monument#Louisiana
+2#Acadia#National Park#Acadia National Park#Maine
+2#Appalachian#National Scenic Trail#Appalachian National Scenic Trail#Maine to Georgia
+3#Saint Croix Island#International Historic Site#Saint Croix Island International Historic Site#Maine
+2#Antietam#National Battlefield#Antietam National Battlefield#Maryland
+2#Assateague Island#National Seashore#Assateague Island National Seashore#Maryland, Virginia
+3#Catoctin Mountain#Park#Catoctin Mountain Park#Maryland
+2#C & O Canal#National Historical Park#C & O Canal National Historical Park#Maryland, Washington DC
+2#Clara Barton#National Historic Site#Clara Barton National Historic Site#Maryland
+2#Fort McHenry#National Monument and Historic Shrine#Fort McHenry National Monument and Historic Shrine#Maryland
+3#Fort Washington#Park#Fort Washington Park#Maryland
+3#Greenbelt#Park#Greenbelt Park#Maryland
+2#Hampton#National Historic Site#Hampton National Historic Site#Maryland
+2#Harriet Tubman Underground Railroad#National Historical Park#Harriet Tubman Underground Railroad National Historical Park#Maryland
+2#Monocacy#National Battlefield#Monocacy National Battlefield#Maryland
+3#Piscataway#Park#Piscataway Park#Maryland
+2#Potomac Heritage#National Scenic Trail#Potomac Heritage National Scenic Trail#Maryland, Pennsylvania
+2#Thomas Stone#National Historic Site#Thomas Stone National Historic Site#Maryland
+2#Adams#National Historical Park#Adams National Historical Park#Massachusetts
+2#Boston African American#National Historic Site#Boston African American National Historic Site#Massachusetts
+2#Boston Harbor Islands#National Recreation Area#Boston Harbor Islands National Recreation Area#Massachusetts
+2#Boston#National Historical Park#Boston National Historical Park#Massachusetts
+2#Cape Cod#National Seashore#Cape Cod National Seashore#Massachusetts
+2#Frederick Law Olmsted#National Historic Site#Frederick Law Olmsted National Historic Site#Massachusetts
+2#John F. Kennedy#National Historic Site#John F. Kennedy National Historic Site#Massachusetts
+2#Longfellow House–Washington's Headquarters#National Historic Site#Longfellow House–Washington's Headquarters National Historic Site#Massachusetts
+2#Lowell#National Historical Park#Lowell National Historical Park#Massachusetts
+2#Minute Man#National Historical Park#Minute Man National Historical Park#Massachusetts
+2#New Bedford Whaling#National Historical Park#New Bedford Whaling National Historical Park#Massachusetts
+2#Salem Maritime#National Historic Site#Salem Maritime National Historic Site#Massachusetts
+2#Saugus Iron Works#National Historic Site#Saugus Iron Works National Historic Site#Massachusetts
+2#Springfield Armory#National Historic Site#Springfield Armory National Historic Site#Massachusetts
+2#Isle Royale#National Park#Isle Royale National Park#Michigan
+2#Keweenaw#National Historical Park#Keweenaw National Historical Park#Michigan
+2#Pictured Rocks#National Lakeshore#Pictured Rocks National Lakeshore#Michigan
+2#River Raisin#National Battlefield Park#River Raisin National Battlefield Park#Michigan
+2#Sleeping Bear Dunes#National Lakeshore#Sleeping Bear Dunes National Lakeshore#Michigan
+2#Grand Portage#National Monument#Grand Portage National Monument#Minnesota
+2#Mississippi#National River and Recreation Area#Mississippi National River and Recreation Area#Minnesota
+2#Pipestone#National Monument#Pipestone National Monument#Minnesota
+2#Voyageurs#National Park#Voyageurs National Park#Minnesota
+2#Brices Cross Roads#National Battlefield Site#Brices Cross Roads National Battlefield Site#Mississippi
+2#Natchez#National Historical Park#Natchez National Historical Park#Mississippi
+3#Natchez Trace#Parkway#Natchez Trace Parkway#Mississippi, Alabama, Tennessee
+2#Natchez Trace#National Scenic Trail#Natchez Trace National Scenic Trail#Mississippi, Alabama, Tennessee
+2#Tupelo#National Battlefield#Tupelo National Battlefield#Mississippi
+2#Vicksburg#National Military Park#Vicksburg National Military Park#Mississippi, Louisiana
+2#George Washington Carver#National Monument#George Washington Carver National Monument#Missouri
+2#Harry S Truman#National Historic Site#Harry S Truman National Historic Site#Missouri
+2#Jefferson#National Expansion Memorial#Jefferson National Expansion Memorial#Missouri
+2#Ozark#National Scenic Riverways#Ozark National Scenic Riverways#Missouri
+2#Ulysses S. Grant#National Historic Site#Ulysses S. Grant National Historic Site#Missouri
+2#Wilson's Creek#National Battlefield#Wilson's Creek National Battlefield#Missouri
+2#Big Hole#National Battlefield#Big Hole National Battlefield#Montana
+2#Bighorn Canyon#National Recreation Area#Bighorn Canyon National Recreation Area#Montana
+2#Glacier#National Park#Glacier National Park#Montana
+2#Grant-Kohrs Ranch#National Historic Site#Grant-Kohrs Ranch National Historic Site#Montana
+2#Little Bighorn Battlefield#National Monument#Little Bighorn Battlefield National Monument#Montana
+2#Agate Fossil Beds#National Monument#Agate Fossil Beds National Monument#Nebraska
+2#Homestead#National Monument of America#Homestead National Monument of America#Nebraska
+2#Missouri#National Recreational River#Missouri National Recreational River#Nebraska, South Dakota
+2#Niobrara#National Scenic River#Niobrara National Scenic River#Nebraska
+2#Scotts Bluff#National Monument#Scotts Bluff National Monument#Nebraska
+2#Great Basin#National Park#Great Basin National Park#Nevada
+2#Lake Mead#National Recreation Area#Lake Mead National Recreation Area#Nevada, Arizona
+2#Tule Springs Fossil Beds#National Monument#Tule Springs Fossil Beds National Monument#Nevada
+2#Saint-Gaudens#National Historic Site#Saint-Gaudens National Historic Site#New Hampshire
+4#Great Egg Harbor River##Great Egg Harbor Scenic and Recreational River#New Jersey
+2#Morristown#National Historical Park#Morristown National Historical Park#New Jersey
+2#Paterson Great Falls#National Historical Park#Paterson Great Falls National Historical Park#New Jersey
+2#Thomas Edison#National Historical Park#Thomas Edison National Historical Park#New Jersey
+2#Aztec Ruins#National Monument#Aztec Ruins National Monument#New Mexico
+2#Bandelier#National Monument#Bandelier National Monument#New Mexico
+2#Capulin Volcano#National Monument#Capulin Volcano National Monument#New Mexico
+2#Carlsbad Caverns#National Park#Carlsbad Caverns National Park#New Mexico
+2#Chaco Culture#National Historical Park#Chaco Culture National Historical Park#New Mexico
+2#El Malpais#National Monument#El Malpais National Monument#New Mexico
+2#El Morro#National Monument#El Morro National Monument#New Mexico
+2#Fort Union#National Monument#Fort Union National Monument#New Mexico
+2#Gila Cliff Dwellings#National Monument#Gila Cliff Dwellings National Monument#New Mexico
+2#Pecos#National Historical Park#Pecos National Historical Park#New Mexico
+2#Petroglyph#National Monument#Petroglyph National Monument#New Mexico
+2#Salinas Pueblo Missions#National Monument#Salinas Pueblo Missions National Monument#New Mexico
+2#Valles Caldera#National Preserve#Valles Caldera National Preserve#New Mexico
+2#White Sands#National Monument#White Sands National Monument#New Mexico
+2#African Burial Ground#National Monument#African Burial Ground National Monument#New York
+2#Castle Clinton#National Monument#Castle Clinton National Monument#New York
+2#Eleanor Roosevelt#National Historic Site#Eleanor Roosevelt National Historic Site#New York
+2#Federal Hall#National Memorial#Federal Hall National Memorial#New York
+2#Fire Island#National Seashore#Fire Island National Seashore#New York
+2#Fort Stanwix#National Monument#Fort Stanwix National Monument#New York
+2#Gateway#National Recreation Area#Gateway National Recreation Area#New York, New Jersey
+2#General Grant#National Memorial#General Grant National Memorial#New York
+2#Governors Island#National Monument#Governors Island National Monument#New York
+2#Hamilton Grange#National Memorial#Hamilton Grange National Memorial#New York
+2#Home of Franklin D. Roosevelt#National Historic Site#Home of Franklin D. Roosevelt National Historic Site#New York
+2#Martin Van Buren#National Historic Site#Martin Van Buren National Historic Site#New York
+2#Saint Paul's Church#National Historic Site#Saint Paul's Church National Historic Site#New York
+2#Sagamore Hill#National Historic Site#Sagamore Hill National Historic Site#New York
+2#Saratoga#National Historical Park#Saratoga National Historical Park#New York
+2#Statue of Liberty#National Monument#Statue of Liberty National Monument#New York, New Jersey
+2#Theodore Roosevelt Birthplace#National Historic Site#Theodore Roosevelt Birthplace National Historic Site#New York
+2#Theodore Roosevelt Inaugural#National Historic Site#Theodore Roosevelt Inaugural National Historic Site#New York
+2#Vanderbilt Mansion#National Historic Site#Vanderbilt Mansion National Historic Site#New York
+2#Women's Rights#National Historical Park#Women's Rights National Historical Park#New York
+3#Blue Ridge#Parkway#Blue Ridge Parkway#NC, VA
+2#Cape Hatteras#National Seashore#Cape Hatteras National Seashore#North Carolina
+2#Cape Lookout#National Seashore#Cape Lookout National Seashore#North Carolina
+2#Carl Sandburg Home#National Historic Site#Carl Sandburg Home National Historic Site#North Carolina
+2#Fort Raleigh#National Historic Site#Fort Raleigh National Historic Site#North Carolina
+2#Guilford Courthouse#National Military Park#Guilford Courthouse National Military Park#North Carolina
+2#Moores Creek#National Battlefield#Moores Creek National Battlefield#North Carolina
+2#Wright Brothers#National Memorial#Wright Brothers National Memorial#North Carolina
+2#Fort Union Trading Post#National Historic Site#Fort Union Trading Post National Historic Site#North Dakota, Montana
+2#Knife River Indian Villages#National Historic Site#Knife River Indian Villages National Historic Site#North Dakota
+2#Theodore Roosevelt#National Park#Theodore Roosevelt National Park#North Dakota
+2#Charles Young Buffalo Soldiers#National Monument#Charles Young Buffalo Soldiers National Monument#Ohio
+2#Cuyahoga Valley#National Park#Cuyahoga Valley National Park#Ohio
+2#Dayton Aviation Heritage#National Historical Park#Dayton Aviation Heritage National Historical Park#Ohio
+2#First Ladies#National Historic Site#First Ladies National Historic Site#Ohio
+2#Hopewell Culture#National Historical Park#Hopewell Culture National Historical Park#Ohio
+2#James A. Garfield#National Historic Site#James A. Garfield National Historic Site#Ohio
+3#Perry's Victory and International Peace#Memorial#Perry's Victory and International Peace Memorial#Ohio
+2#William Howard Taft#National Historic Site#William Howard Taft National Historic Site#Ohio
+2#Chickasaw#National Recreation Area#Chickasaw National Recreation Area#Oklahoma
+2#Washita Battlefield#National Historic Site#Washita Battlefield National Historic Site#Oklahoma
+2#Crater Lake#National Park#Crater Lake National Park#Oregon
+2#Lewis and Clark#National Historical Park#Lewis and Clark National Historical Park#Oregon, Washington
+2#John Day Fossil Beds#National Monument#John Day Fossil Beds National Monument#Oregon
+2#Oregon Caves#National Monument and Preserve#Oregon Caves National Monument and Preserve#Oregon
+2#Allegheny Portage Railroad#National Historic Site#Allegheny Portage Railroad National Historic Site#Pennsylvania
+2#Delaware Water Gap#National Recreation Area#Delaware Water Gap National Recreation Area#Pennsylvania
+2#Edgar Allan Poe#National Historic Site#Edgar Allan Poe National Historic Site#Pennsylvania
+2#Eisenhower#National Historic Site#Eisenhower National Historic Site#Pennsylvania
+2#Flight 93#National Memorial#Flight 93 National Memorial#Pennsylvania
+2#Fort Necessity#National Battlefield#Fort Necessity National Battlefield#Pennsylvania
+2#Friendship Hill#National Historic Site#Friendship Hill National Historic Site#Pennsylvania
+2#Gettysburg#National Military Park#Gettysburg National Military Park#Pennsylvania
+2#Hopewell Furnace#National Historic Site#Hopewell Furnace National Historic Site#Pennsylvania
+2#Independence#National Historical Park#Independence National Historical Park#Pennsylvania
+2#Johnstown Flood#National Memorial#Johnstown Flood National Memorial#Pennsylvania
+2#Middle Delaware#National Scenic River#Middle Delaware National Scenic River#Pennsylvania
+2#Steamtown#National Historic Site#Steamtown National Historic Site#Pennsylvania
+2#Thaddeus Kosciuszko#National Memorial#Thaddeus Kosciuszko National Memorial#Pennsylvania
+3#Upper Delaware#Scenic and Recreational River#Upper Delaware Scenic and Recreational River#NY, PA
+2#Valley Forge#National Historical Park#Valley Forge National Historical Park#Pennsylvania
+2#San Juan#National Historic Site#San Juan National Historic Site#Puerto Rico
+2#Blackstone River Valley#National Historical Park#Blackstone River Valley National Historical Park#Rhode Island, Massachusetts
+2#Roger Williams#National Memorial#Roger Williams National Memorial#Rhode Island
+2#Charles Pinckney#National Historic Site#Charles Pinckney National Historic Site#South Carolina
+2#Congaree#National Park#Congaree National Park#South Carolina
+2#Cowpens#National Battlefield#Cowpens National Battlefield#South Carolina
+2#Fort Sumter#National Monument#Fort Sumter National Monument#South Carolina
+2#Kings Mountain#National Military Park#Kings Mountain National Military Park#South Carolina
+2#Ninety Six#National Historic Site#Ninety Six National Historic Site#South Carolina
+2#Badlands#National Park#Badlands National Park#South Dakota
+2#Jewel Cave#National Monument#Jewel Cave National Monument#South Dakota
+2#Minuteman Missile#National Historic Site#Minuteman Missile National Historic Site#South Dakota
+2#Mount Rushmore#National Memorial#Mount Rushmore National Memorial#South Dakota
+2#Wind Cave#National Park#Wind Cave National Park#South Dakota
+2#Andrew Johnson#National Historic Site#Andrew Johnson National Historic Site#Tennessee
+2#Big South Fork#National River and Recreation Area#Big South Fork National River and Recreation Area#Tennessee, Kentucky
+2#Fort Donelson#National Battlefield#Fort Donelson National Battlefield#Tennessee, Kentucky
+2#Great Smoky Mountains#National Park#Great Smoky Mountains National Park#Tennessee, North Carolina
+3#Obed#Wild & Scenic River#Obed Wild and Scenic River#Tennessee
+2#Shiloh#National Military Park#Shiloh National Military Park#Tennessee, Mississippi
+2#Stones River#National Battlefield#Stones River National Battlefield#Tennessee
+2#Alibates Flint Quarries#National Monument#Alibates Flint Quarries National Monument#Texas
+2#Amistad#National Recreation Area#Amistad National Recreation Area#Texas
+2#Big Bend#National Park#Big Bend National Park#Texas
+2#Big Thicket#National Preserve#Big Thicket National Preserve#Texas
+2#Chamizal#National Memorial#Chamizal National Memorial#Texas
+2#Fort Davis#National Historic Site#Fort Davis National Historic Site#Texas
+2#Guadalupe Mountains#National Park#Guadalupe Mountains National Park#Texas
+2#Lake Meredith#National Recreation Area#Lake Meredith National Recreation Area#Texas
+2#Lyndon B. Johnson#National Historical Park#Lyndon B. Johnson National Historical Park#Texas
+2#Padre Island#National Seashore#Padre Island National Seashore#Texas
+2#Palo Alto Battlefield#National Historical Park#Palo Alto Battlefield National Historical Park#Texas
+3#Rio Grande#Wild & Scenic River#Rio Grande Wild and Scenic River#Texas
+2#San Antonio Missions#National Historical Park#San Antonio Missions National Historical Park#Texas
+2#Arches#National Park#Arches National Park#Utah
+2#Bryce Canyon#National Park#Bryce Canyon National Park#Utah
+2#Canyonlands#National Park#Canyonlands National Park#Utah
+2#Capitol Reef#National Park#Capitol Reef National Park#Utah
+2#Cedar Breaks#National Monument#Cedar Breaks National Monument#Utah
+2#Golden Spike#National Historic Site#Golden Spike National Historic Site#Utah
+2#Natural Bridges#National Monument#Natural Bridges National Monument#Utah
+2#Rainbow Bridge#National Monument#Rainbow Bridge National Monument#Utah
+2#Timpanogos Cave#National Monument#Timpanogos Cave National Monument#Utah
+2#Zion#National Park#Zion National Park#Utah
+2#Marsh-Billings-Rockefeller#National Historical Park#Marsh-Billings-Rockefeller National Historical Park#Vermont
+2#Buck Island Reef#National Monument#Buck Island Reef National Monument#Virgin Islands
+2#Christiansted#National Historic Site#Christiansted National Historic Site#Virgin Islands
+2#Salt River Bay#National Historical Park and Ecological Preserve#Salt River Bay National Historical Park and Ecological Preserve#Virgin Islands
+2#Virgin Islands#National Park#Virgin Islands National Park#Virgin Islands
+2#Virgin Islands Coral Reef#National Monument#Virgin Islands Coral Reef National Monument#Virgin Islands
+2#Appomattox Court House#National Historical Park#Appomattox Court House National Historical Park#Virginia
+4#Arlington House, The Robert E. Lee Memorial##Arlington House, The Robert E. Lee Memorial#Virginia
+2#Booker T. Washington#National Monument#Booker T. Washington National Monument#Virginia
+2#Cedar Creek and Belle Grove#National Historical Park#Cedar Creek and Belle Grove National Historical Park#Virginia
+2#Colonial#National Historical Park#Colonial National Historical Park#Virginia
+2#Fort Monroe#National Monument#Fort Monroe National Monument#Virginia
+2#Fredericksburg and Spotsylvania#National Military Park#Fredericksburg and Spotsylvania National Military Park#Virginia
+2#George Washington Birthplace#National Monument#George Washington Birthplace National Monument#Virginia
+3#George Washington#Memorial Parkway#George Washington Memorial Parkway#DC, MD, VA
+2#Maggie L. Walker#National Historic Site#Maggie L. Walker National Historic Site#Virginia
+2#Manassas#National Battlefield Park#Manassas National Battlefield Park#Virginia
+2#Petersburg#National Battlefield Park#Petersburg National Battlefield Park#Virginia
+3#Prince William Forest#Park#Prince William Forest Park#Virginia
+2#Richmond#National Battlefield Park#Richmond National Battlefield Park#Virginia
+2#Shenandoah#National Park#Shenandoah National Park#Virginia
+2#Wolf Trap#National Park for the Performing Arts#Wolf Trap National Park for the Performing Arts#Virginia
+2#Ebey's Landing#National Historical Reserve#Ebey's Landing National Historical Reserve#Washington
+2#Fort Vancouver#National Historic Site#Fort Vancouver National Historic Site#Washington, Oregon
+2#Lake Chelan#National Recreation Area#Lake Chelan National Recreation Area#Washington
+2#Lake Roosevelt#National Recreation Area#Lake Roosevelt National Recreation Area#Washington
+2#Mount Rainier#National Park#Mount Rainier National Park#Washington
+2#North Cascades#National Park#North Cascades National Park#Washington
+2#Olympic#National Park#Olympic National Park#Washington
+2#Ross Lake#National Recreation Area#Ross Lake National Recreation Area#Washington
+2#San Juan Island#National Historical Park#San Juan Island National Historical Park#Washington
+2#Whitman Mission#National Historic Site#Whitman Mission National Historic Site#Washington
+2#Carter G. Woodson Home#National Historic Site#Carter G. Woodson Home National Historic Site#District of Columbia
+4#Constitution Gardens##Constitution Gardens#District of Columbia
+2#Ford's Theatre#National Historic Site#Ford's Theatre National Historic Site#District of Columbia
+3#Franklin Delano Roosevelt#Memorial#Franklin D. Roosevelt Memorial#District of Columbia
+2#Frederick Douglass#National Historic Site#Frederick Douglass National Historic Site#District of Columbia
+3#Korean War Veterans#Memorial#Korean War Veterans Memorial#District of Columbia
+3#Lincoln#Memorial#Lincoln Memorial#District of Columbia
+4#Lyndon Baines Johnson Memorial Grove on the Potomac##Lyndon Baines Johnson Memorial Grove on the Potomac#District of Columbia
+3#Martin Luther King, Jr.#Memorial#Martin Luther King, Jr. Memorial#District of Columbia
+2#Mary McLeod Bethune Council House#National Historic Site#Mary McLeod Bethune Council House National Historic Site#District of Columbia
+4#National Capital Parks-East##National Capital Parks#District of Columbia
+4#National Mall##National Mall#District of Columbia
+2#Pennsylvania Avenue#National Historic Site#Pennsylvania Avenue National Historic Site#District of Columbia
+3#Rock Creek#Park#Rock Creek Park#District of Columbia
+4#Theodore Roosevelt Island##Theodore Roosevelt Island#District of Columbia
+3#Thomas Jefferson#Memorial#Thomas Jefferson Memorial#District of Columbia
+3#Vietnam Veterans#Memorial#Vietnam Veterans Memorial#District of Columbia
+4#Washington Monument##Washington Monument#District of Columbia
+4#President's Park (White House)##White House#District of Columbia
+3#World War I#Memorial#World War I Memorial#District of Columbia
+3#World War II#Memorial#World War II Memorial#District of Columbia
+2#Bluestone#National Scenic River#Bluestone National Scenic River#West Virginia
+2#Gauley River#National Recreation Area#Gauley River National Recreation Area#West Virginia
+2#Harpers Ferry#National Historical Park#Harpers Ferry National Historical Park#West Virginia
+2#New River Gorge#National River#New River Gorge National River#West Virginia
+2#Apostle Islands#National Lakeshore#Apostle Islands National Lakeshore#Wisconsin
+2#Saint Croix#National Scenic Riverway#Saint Croix National Scenic Riverway#Wisconsin, Minnesota
+2#Devils Tower#National Monument#Devils Tower National Monument#Wyoming
+2#Fort Laramie#National Historic Site#Fort Laramie National Historic Site#Wyoming
+2#Fossil Butte#National Monument#Fossil Butte National Monument#Wyoming
+2#Grand Teton#National Park#Grand Teton National Park#Wyoming
+3#John D. Rockefeller#Memorial Parkway#John D. Rockefeller Memorial Parkway#Wyoming
+2#Yellowstone#National Park#Yellowstone National Park#Wyoming, Idaho, Montana
